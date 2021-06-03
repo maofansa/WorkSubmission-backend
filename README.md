@@ -3,7 +3,7 @@
 WorkSubmission-backend is the back-end part of the job submission system. It is written using the Golang, MySQL and Gin frameworks. Integrate publishing with Docker. 
 
 
-p.s. You may need to change some local package address (like "background/models") when forking.
+p.s. You may need to change some local package address (like "background/models") before compiling.
 
 ## API List
 
